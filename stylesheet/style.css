@@ -1,0 +1,68 @@
+body::-webkit-scrollbar {
+  width: 0px; /* width of the entire scrollbar */
+} 
+
+body{
+	background-color: #1C1B19; 
+	margin: 0px;
+}
+
+.logo{
+	width: 150px; 
+	height: 152.37px;"
+}
+
+.title{
+	font-family: Sniglet;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+    line-height: 62px;
+	color: #FDFDFD;
+	margin: 0px;
+	margin-top: 5px;
+}
+
+
+.wait{
+	font-family: Sniglet;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 37px;
+	color: #FFFFFF;
+	margin: 0px;
+	margin-top: 10px;
+}
+
+.center{
+	text-align-last: center;
+	width: 100%;
+	position: absolute;
+}
+
+
+
+.link{
+	position: absolute;
+	display: flex;
+	column-gap: 25px;
+	padding-top: 63px;
+}
+
+
+header{
+	display: flex;
+}
+
+.void{
+	width: 100%;
+}
+
+.void2{
+	width: 100%;
+}
+
+.void3{
+	width: 100%;
+}
